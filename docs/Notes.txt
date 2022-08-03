@@ -1,0 +1,11 @@
+Create an express project:
+
+$ express express-locallibrary-tutorial
+
+ORMS:
+Useful to work with databases. Some of them are available on npm:
+- Mongoose: MongoDB - NoSQL
+- Waterline: MySQL, PostgreSQL - SQL, MongoDB - NoSQL
+- Objection: SQLite3, Postgres, MySQL
+- Sequelize: PostgreSQL, MySQL, MariaDB, SQLite, MSSQL
+- GraphQL: APIs
