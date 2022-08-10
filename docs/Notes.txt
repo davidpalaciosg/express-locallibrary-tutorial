@@ -1,3 +1,7 @@
+Tutorial Step:
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes
+Routes needed for the LocalLibrary
+
 Create an express project:
 
 $ express express-locallibrary-tutorial
